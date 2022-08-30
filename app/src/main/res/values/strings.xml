@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">flashes</string>
+    <string name="scroll_view_content">scroll view for the main content of the app</string>
+</resources>
