@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">flashes</string>
     <string name="scroll_view_content">scroll view for the main content of the app</string>
+    <string name="demo_headline">News Headline from the source</string>
+    <string name="source_image">Source Image</string>
+    <string name="source_text">Source : NDTV</string>
+    <string name="time_text">14 hours ago</string>
+    <string name="demo_content">Demo Text for testing the news items of the recycler view.</string>
 </resources>
